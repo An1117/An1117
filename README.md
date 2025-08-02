@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 Full-Stack Developer | 🎨 UI/UX Designer | 🤖 AI/ML Enthusiast <br>
-🎓 3rd Year ECE @ Thapar Institute | CGPA: 8.56 <br>
+🎓 4th Year ECE @ Thapar Institute | CGPA: 8.56 <br>
 🚀 Passionate about building real-world, accessible tech using code & creativity
 </p>
 
@@ -36,7 +36,6 @@
 ### 🎯 Next Up
 
 - 💼 Personal Portfolio Website (React + Tailwind CSS)  
-- 📊 IoT Dashboard for Real-Time Sensor Visualization (React + MQTT + Node.js)  
 - 🎧 Mood-Based Music Player using Spotify API + TensorFlow.js
 
 ---
