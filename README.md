@@ -49,7 +49,7 @@
 ### 📫 Let's Connect!
 
 - 📧 [anshita17sharma@gmail.com](mailto:anshita17sharma@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/anshita-sharma-1117)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/anshita-sharma-a6b539253/)  
 - 💻 [LeetCode](https://leetcode.com/u/Anshita17/)  
 - 🌐 Portfolio: *Coming Soon*
 
